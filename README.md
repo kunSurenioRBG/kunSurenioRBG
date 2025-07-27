@@ -7,5 +7,5 @@
   <li>🧪 I’ve worked with state-of-the-art architectures like <strong>VRT</strong>, <strong>EDVR</strong>, and <strong>NAFNet</strong> for image and video restoration</li>
   <li>🧬 I’ve explored generative models like <strong>Stable Diffusion</strong> and <strong>GANs</strong> for image synthesis and transformation</li>
   <li>⚡ I’ve run deep learning workflows on <strong>high-performance computing systems</strong> like the <a href="https://www.scbi.uma.es/web/es/supercomputacion/"><strong>Picasso</strong></a> supercomputer, optimizing training and inference at scale</li>
-  <li>✨ I like <em>Pokémon</em>, <em>pan con acéite</em>, and <em>batido Puleva 🦆</em></li>
+  <li>✨ I like <em>Pokémon</em>, <em>bread with olive oil</em>, and <em>Puleva milkshake 🦆</em></li>
 </ul>
