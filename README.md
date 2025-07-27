@@ -1,5 +1,5 @@
 <h2>Hi, I'm Santiago</h2>
-<img align="right" width="150" src="[https://imgur.com/a/0UxpTuG](https://imgur.com/3kwWOQc)"/>
+<img align="right" width="150" src="https://imgur.com/a/0UxpTuG](https://imgur.com/3kwWOQc)"/>
 <ul>
 <li>I mostly do compiler development these days and <a href="https://github.com/llvm/llvm-project/commits?author=momo5502">contribute to LLVM</a> from time to time</li>
 <li>I have developed my own research <a href="https://github.com/momo5502/hypervisor">hypervisor</a></li>
